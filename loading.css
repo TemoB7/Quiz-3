@@ -16,6 +16,6 @@ body {
 }
 @keyframes loading {
   100% {
-    background-size: 110%;
+    background-size: 120%;
   }
 }
